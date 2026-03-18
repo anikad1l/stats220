@@ -1,7 +1,7 @@
 # stats220
 
 This is my repo for STATS 220. 
-
+hello my name is
 A little about me:
 
 - I am undertaking a degree in Science, majoring in physiology.
